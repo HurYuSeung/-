@@ -121,12 +121,13 @@ GPT-5.5는 평가 항목인 **비즈니스 메일 형식 및 전문성, 내용�
 \- 공손하고 전문적인 업무용 문체
 
 \- 고객사에 바로 발송 가능한 완성된 메일 초안
-<img width="422" height="76" alt="Image" src="https://github.com/user-attachments/assets/d5eae506-3912-456f-9d7c-06288ff3f81b" />
 
+<img width="436" height="709" alt="Image" src="https://github.com/user-attachments/assets/2fa29ad6-13e3-4311-8180-13aa30631369" />
 1. 입력 템플릿 제시
 
 \- 필수 포함 항목, 톤 설정
-<img width="955" height="384" alt="Image" src="https://github.com/user-attachments/assets/aa8d3570-fb84-4043-8e02-ef032b4eaad1" />
+
+<img width="422" height="76" alt="Image" src="https://github.com/user-attachments/assets/d5eae506-3912-456f-9d7c-06288ff3f81b" />
 
 3\. 페르소나 정의 및 시스템 프롬프트 설계
 
@@ -191,13 +192,14 @@ GPT-5.5는 평가 항목인 **비즈니스 메일 형식 및 전문성, 내용�
 \- 회사 정책이나 계약 관련 내용은 확인된 정보만 반영
 
 4\. Few-shot 예시(최소 3개) 포함
+
+<img width="955" height="384" alt="Image" src="https://github.com/user-attachments/assets/aa8d3570-fb84-4043-8e02-ef032b4eaad1" />
+
 <img width="954" height="347" alt="Image" src="https://github.com/user-attachments/assets/f5e57a76-eb62-4b78-985a-92fdeff7789e" />
 
 <img width="958" height="314" alt="Image" src="https://github.com/user-attachments/assets/b697251f-ae34-4c57-ae9e-e872d4cbe395" />
 
 <img width="967" height="437" alt="Image" src="https://github.com/user-attachments/assets/eab2f622-aa42-48d3-b278-30a40346df1b" />
-
-<img width="957" height="730" alt="Image" src="https://github.com/user-attachments/assets/92db2bd8-9591-4da8-90d9-05f3593666c6" />
 
 
 5\. 단계적 추론 유도 적용 및 전/후 비교
