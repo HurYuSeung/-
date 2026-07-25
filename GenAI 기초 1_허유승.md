@@ -268,6 +268,7 @@ v1/v2 비교 결과
 불확실한 원인 판단: 확인된 사실만 반영하도록 안내함(PASS)
 
 전체 대화 로그
+
 <img width="645" height="612" alt="Image" src="https://github.com/user-attachments/assets/541c7e24-edcb-4c77-8610-3a2155a62307" />
 
 <img width="369" height="576" alt="Image" src="https://github.com/user-attachments/assets/d8a07aa2-9ea1-464f-9042-737de8df62b2" />
